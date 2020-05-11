@@ -1,2 +1,2 @@
 # imersaocss2
-Primeira versão do site
+Site utilizando html e css
